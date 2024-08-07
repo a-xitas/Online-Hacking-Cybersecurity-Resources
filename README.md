@@ -5,4 +5,4 @@ Identify technologies on Websites:
   [Wappalyzer](https://www.wappalyzer.com/)
   
 Explore more than 866 billion web pages saved over time:
-  Internet Archive [(https://web.archive.org/)]
+  [Internet Archive](https://web.archive.org/)
