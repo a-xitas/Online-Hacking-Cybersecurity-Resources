@@ -95,4 +95,52 @@ Some of the online resources I've tumbled upon on my readings, day to day basis,
 
 - Coding Academia:
   [CodeWars](https://www.codewars.com/)
+
+- Phishing:
+  [Phishing|KnowBe4](https://www.knowbe4.com/resource-center/phishing)
+
+- PhishTool:
+  [PhishTool](https://www.phishtool.com/)
+
+- Phishing IR Playbook:
+  [Incident Response Plan Template](https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-phishing.md)
+
+- SPF Record Syntax:
+  [Understanding SPF Syntax](https://dmarcian.com/spf-syntax-table/)
+
+- DMarcian SPF Surveyor:
+  [SPF Surveyor](https://dmarcian.com/spf-survey/)
+
+- DMARC Domain Checker:
+  [DMARC Domain Checker](https://dmarcian.com/domain-checker/)
+
+- Malware analysis and sandboxes:
+  [VirusTotal](https://www.virustotal.com/gui/home/upload)
+  [AnyRun](https://app.any.run/)
+  [JoeSecurity](https://www.joesecurity.org/)
+  [Hybrid Analysis](https://www.hybrid-analysis.com/)
+
+- Screenshots as a Service-Capture snapshots of any website:
+  [URL2PNG](https://www.url2png.com/)
+
+- IP Address Databases:
+  [IPinfo](https://ipinfo.io/)
+  [Spamhaus Project](https://www.spamhaus.org/)
+
+- Simulate any Browser:
+  [Wannabrowser](https://www.wannabrowser.net/)
+
+- Google Tool Box:
+  [Caixa de ferramentas do administrador](https://toolbox.googleapps.com/apps/main/)
+
+- PhishTank-Out of the Net, into the Tank:
+  [PhishTank](https://phishtank.com/)
+
+- Analyzing Email Headers:
+  [MailHeader](https://mailheader.org/)
+  [Message Header Analyzer](https://mha.azurewebsites.net/)
+  [URL Extractor For Web Pages and Text](https://www.convertcsv.com/url-extractor.htm)
+
+- MX LOOKUP:
+  [MxtoolBox](https://mxtoolbox.com/)
   
